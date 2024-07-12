@@ -1,5 +1,7 @@
 ## Description
 You are a Marshmallow - defender of sweetness, softness, and tastiness!
+You heal two extra ticks in a short rest, or one extra tick in a long rest.
+(But you take damage when submerged in water for extended periods.)
 
 ## Abilities
 ## Compressive Candy
