@@ -1,11 +1,18 @@
 ## Description
 You are a Plant Person - slow, cautious, but often deadly.
+When watered in sunlight, you do not need food.
 
 ## Abilities
 ### Flytrap
 You have lightning reflexes and strong hands - you can snatch things out of
 the air, grip foes tightly in melee, and tightly hold when climbing.
 Ticks: [ ]-[ ]-[ ]
+
+### Golden Fruit
+Damage this ability to offer someone your sweet, golden fruit.
+It is rots slowly, and provides either a day's nutrition, heals two ticks, or 
+heals one damaged tick.
+Ticks: [ ]
 
 ### Nightshade
 Tick this ability to become poisonous for a short time.
