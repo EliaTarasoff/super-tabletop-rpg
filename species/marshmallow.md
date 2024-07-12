@@ -2,6 +2,10 @@
 You are a Marshmallow - defender of sweetness, softness, and tastiness!
 
 ## Abilities
+## Compressive Candy
+Tick this ability to squish yourself to fit in narrow spaces and
+become denser than water.
+
 ### Fiery Fervor
 You work yourself up to a red-hot passion - deal fire damage to everyone nearby.
 (Damage one box per use.)
