@@ -24,6 +24,6 @@ you don't set off pressure-plates, can float on the wind, and climb easily.
 Ticks: [ ]-[ ]-[ ]
 
 ### Soothing Sweetness
-You offer up a chunk of yourself to heal someone else.
+You offer a chunk of yourself to either heal three ticks, or two damaged ticks.
 (Damage one box per use.)
 Ticks: [ ]-[ ]
