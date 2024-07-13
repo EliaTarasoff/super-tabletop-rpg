@@ -20,3 +20,6 @@ Some of your eyes can see heat, letting you see warm objects in the dark!
 Your fangs can inject poison into your enemies, paralyzing and
 slowly liquefying them. (Eating them is optional.)
 
+### Tunnel Trap
+You spin a barely-perceptible, spring-loaded web on the circumference of a doorway or tunnel.
+When stepped on, it snaps shut ensnaring the person and blocking further passage.
