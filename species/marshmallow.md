@@ -7,6 +7,7 @@ You heal two extra ticks in a short rest, or one extra tick in a long rest.
 ## Compressive Candy
 Tick this ability to squish yourself to fit in narrow spaces and
 become denser than water.
+Ticks: [ ]-[ ]-[ ]-[ ]
 
 ### Fiery Fervor
 You work yourself up to a red-hot passion - deal fire damage to everyone nearby.
