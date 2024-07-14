@@ -8,9 +8,8 @@ Launch a blob of gluey silk to entangle your enemies!
 Shoot a long strand of silk, that attaches to the surface it strikes. 
 It can be climbed by your easily, and you may glue its other end securely.
 
-### Crawly Climber
-You've got extra-sticky hands and feet -
-you can climb up vertical surfaces and even across ceilings!
+### Extra Appendages
+Your extra hands and feet let you easily climb walls, grapple and wield more!
 
 ### Heat Hunter
 Some of your eyes can see heat, letting you see warm objects in the dark!
