@@ -22,7 +22,7 @@ Slots: [ ]
 
 ### Head Toss
 Throw your head, to see from a different vantage-point.
-Slots: [ ]-[ ]-[ ]
+Slots: [ ]-[ ]
 
 ### Waggle Worm
 _(Prerequisite: crawling hand)_
