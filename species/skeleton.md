@@ -17,3 +17,8 @@ Your head has extra fingers, to crawl around like a creepy hand.
 
 ### Head Toss
 Throw your head, to see from a different vantage-point.
+
+### Waggle Worm
+_(Prerequisite: crawling hand)_
+Your entire body can be assembled into a horrible snake -
+perfect for coiling around your enemies or wiggling through tight places!
