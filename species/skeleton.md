@@ -2,12 +2,13 @@
 
 ## Abilities
 ### Bone to Pick
-Your fingers are extra skinny and dextrous - you can use them to pick locks.
-Slots: [ ]-[ ]-[ ]
+Your are extra skinny and dextrous -
+use your fingers to pick locks, or dodge clumsy attacks!
+Slots: [ ]-[ ]-[ ]-[ ]
 
 ### Borrow Some Bones
 Heal an ability by taking bones from a corpse or skeleton.
-Slots: [ ]-[ ]-[ ]-[ ]
+Slots: [ ]-[ ]-[ ]-[ ]-[ ]
 
 ### Crawling Hand
 Your hand can be detached to crawl around on its own,
