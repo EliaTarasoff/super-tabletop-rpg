@@ -21,6 +21,8 @@
 1. Choose a role.
 1. Think up a cool backstory.
 1. Spend starting-exp between your species and role as feels appropriate.
+    1. You start with 50 exp.
+    1. Abilities for both (normal) species and roles cost 10 exp.
 1. Draw a nice portrait for yourself!
 
 ## Using Abilities
@@ -28,3 +30,7 @@
 - If the ability says "damage", then mark it with an `X` instead.
 - Spent abilities refresh with normal food, sleep, or readily-found supplies.
 - Damaged abilities need special healing, repairs or supplies.
+
+## Leveling Up Characters
+- DMs should give out maybe like 10-20 exp after each session.
+- Abilities for both (normal) species and roles still cost 10 exp.
