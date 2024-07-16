@@ -13,6 +13,8 @@ Additionally, you may choose:
 
 ### Silver Tongue
 You may be understood by any creature with which you share a body-part.
+Slots: [ ]
 
 ### Golden Ear
 You may understand any creature with which you share a body-part.
+Slots: [ ]
