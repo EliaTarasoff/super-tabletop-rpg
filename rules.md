@@ -22,3 +22,9 @@
 1. Think up a cool backstory.
 1. Spend starting-exp between your species and role as feels appropriate.
 1. Draw a nice portrait for yourself!
+
+## Using Abilities
+- Abilities get marked with a `>` to denote expending effort.
+- If the ability says "damage", then mark it with an `X` instead.
+- Spent abilities refresh with normal food, sleep, or readily-found supplies.
+- Damaged abilities need special healing, repairs or supplies.
