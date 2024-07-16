@@ -15,3 +15,10 @@
 | 3    | Abject failure.    |
 | 2    | Abject failure.    |
 | 1    | Abject failure.    |
+
+## Creating a Player-Character
+1. Choose a species.
+1. Choose a role.
+1. Think up a cool backstory.
+1. Spend starting-exp between your species and role as feels appropriate.
+1. Draw a nice portrait for yourself!
