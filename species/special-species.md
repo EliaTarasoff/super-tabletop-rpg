@@ -1,7 +1,7 @@
 ## Human
 You are a generic, weak, smelly ape-person from a back-water world.
-You have no innate abilities, but can gain skills, languages, etc
-discounted by one-quarter.
+You have no innate abilities, but when you gain skills, languages, etc
+they are discounted by one-quarter.
 
 ## Chimera
 Whether by holy gift, unholy magics, or mad science, you have the
