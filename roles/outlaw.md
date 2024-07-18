@@ -16,6 +16,7 @@ Slots: [ ]-[ ]-[ ]-[ ]
 
 ### Knife-Thrower
 (short range, light damage)
+(Free to use, if you have knives.)
 Slots: [ ]
 
 ### Lightning Lockpicker

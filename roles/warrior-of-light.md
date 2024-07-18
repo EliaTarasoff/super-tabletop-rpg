@@ -20,6 +20,7 @@ Slots: [ ]-[ ]-[ ]
 
 ### Light Steps
 (+2 to not set off pressure-plates or not take fall damage)
+(Always active.)
 Slots: [ ]
 
 ### Leaps and Bounds

@@ -10,7 +10,7 @@ Slots: [ ]-[ ]-[ ]
 
 ### Golden Fruit
 Damage this ability to offer someone your sweet, golden fruit.
-It is rots slowly, and provides either a day's nutrition, heals two slots, or 
+It is rots slowly, and provides either a day's nutrition, refreshes two slots, or 
 heals one damaged slot.
 Slots: [ ]
 

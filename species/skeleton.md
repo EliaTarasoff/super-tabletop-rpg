@@ -18,6 +18,7 @@ Slots: [ ]-[ ]
 ### Head-Crawl
 _(Prerequisite: head toss)_
 Your head has extra fingers, to crawl around like a creepy hand.
+(Always active.)
 Slots: [ ]
 
 ### Head Toss
