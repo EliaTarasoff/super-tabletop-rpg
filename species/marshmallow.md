@@ -21,7 +21,8 @@ Slots: [ ]
 
 ### Gooey Mess
 _(Swan Song)_
-Your inner fire overtakes you, and you explode in a blaze of fire. (medium radius)
+Your inner fire overtakes you, and you explode in a gooey mess of sticky
+foam, entangling anyone in the blast. (medium radius)
 
 ### Huff and Puff
 You inflate yourself with air to intimidate or bully others.
