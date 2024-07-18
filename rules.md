@@ -30,6 +30,11 @@
 - If the ability says "damage", then mark it with an `X` instead.
 - Spent abilities refresh with normal food, sleep, or readily-found supplies.
 - Damaged abilities need special healing, repairs or supplies.
+- _(Swan Song)_ abilities may be used, when you have taken at least
+  75% damage. (Or instantly, if an attack or ability would drop you to 0%.)
+  Then you're dead. :)
+- _(The Bomb)_ abilities may be used at any time after they have been
+  purchased with exp. You die from using them.
 
 ## Leveling Up Characters
 - DMs should give out maybe like 10-20 exp after each session.

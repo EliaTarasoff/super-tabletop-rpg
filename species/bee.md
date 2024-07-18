@@ -8,6 +8,11 @@ or a large thing out of paper.
 (Damaging a slot uses up the limited resources in your pack.)
 Slots: [ ]-[ ]-[ ]-[ ]
 
+### Chew Through Anything
+Your mandibles are extra-tough, letting you chew through basically anything,
+given enough time. (You may deal crushing damage in melee.)
+Slots: [ ]-[ ]-[ ]
+
 ### Light as a Feather
 You are extra small and light, allowing you to glide long distances,
 and fly short distances. You also climb much more quickly and easily!
@@ -15,8 +20,9 @@ and fly short distances. You also climb much more quickly and easily!
 Slots: [ ]-[ ]
 
 ### Poison Stinger
-You've got a large stinger, which can be used to poison your enemies.
-Slots: [ ]-[ ]-[ ]
+_(The Bomb)_
+Your stinger is large, highly poisonous, and barbed.
+You kill a single enemy in melee.
 
 ### Sweet Treats
 You slurp up extra nectar, to produce honey-balls -

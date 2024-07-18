@@ -28,3 +28,8 @@ You've got extra-strong teeth and stomach, letting you eat things other animals
 cannot, such as wood, stone, feces or bone. Don't waste a thing!
 (Normal food is free, but tough stuff expends this ability.)
 Slots: [ ]-[ ]-[ ]
+
+### Fire and Shrapnel
+_(The Bomb)_
+Your innards consume themselves in a runaway thermal reaction -
+you explode in a blaze of fire and shrapnel, in a short radius. 

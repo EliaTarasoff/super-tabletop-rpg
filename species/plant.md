@@ -31,6 +31,12 @@ to people in melee. (Two damage when grappling.)
 Expend this ability to shoot your spines in short range.
 Slots: [ ]
 
+### Shrapnel Seeds
+_(The Bomb)_
+Your innards consume themselves in an exothermic reaction, building up pressure
+as your fluids boil - you explode in a mess of steam and shrapnel bark
+(short radius) and shoot your bullet-shaped seeds in all directions. (medium radius)
+
 ### Waterlily
 You float on water, but can slot this ability to sink.
 If you stay in water for an extended time, you heal two slots or one damaged slot.

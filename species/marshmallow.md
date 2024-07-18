@@ -10,7 +10,7 @@ become denser than water.
 Slots: [ ]-[ ]-[ ]-[ ]
 
 ### Fiery Fervor
-You work yourself up to a red-hot passion - deal fire damage to everyone nearby.
+You work yourself up to a red-hot passion - deal fire damage in a short radius.
 (Damage one box per use.)
 Slots: [ ]-[ ]
 
@@ -18,6 +18,10 @@ Slots: [ ]-[ ]
 You meditate with your inner fire, to become more inspiring and suave.
 (Damage one box per use, and lose its effects when healed.)
 Slots: [ ]
+
+### Gooey Mess
+_(Swan Song)_
+Your inner fire overtakes you, and you explode in a blaze of fire. (medium radius)
 
 ### Huff and Puff
 You inflate yourself with air to intimidate or bully others.

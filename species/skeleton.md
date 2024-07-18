@@ -24,6 +24,12 @@ Slots: [ ]
 Throw your head, to see from a different vantage-point.
 Slots: [ ]-[ ]
 
+### Impossible to Kill
+_(Swan Song)_
+You drop to the ground, dead as a rock.
+...but you're a frickin' skeleton - you raise yourself and stand to your feet.
+(After the next five actions in combat.)
+
 ### Waggle Worm
 _(Prerequisite: crawling hand)_
 Your entire body can be assembled into a horrible snake -
