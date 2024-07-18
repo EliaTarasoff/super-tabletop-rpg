@@ -5,6 +5,11 @@
 (you're frickin' jacked)
 Slots: [ ]-[ ]-[ ]-[ ]
 
+### Bull-Rush
+_(Swan Song)_
+You charge forward, slashing the necks of up to five enemies,
+in a skinny-medium line.
+
 ### Lambs to the Slaughter
 (good with knives, basic vet / stitching)
 Slots: [ ]-[ ]
