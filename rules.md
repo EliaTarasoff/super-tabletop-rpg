@@ -28,13 +28,16 @@
 ## Using Abilities
 - Abilities get marked with a `>` to denote expending effort.
 - If the ability says "damage", then mark it with an `X` instead.
+- Any time you take damage, you must mark abilities as damaged,
+  with one `X` per point of damage. You may distribute it as you see fit.
+- Fully-damaged abilities provide no benefit and cannot be activated.
 - Spent abilities refresh with normal food, sleep, or readily-found supplies.
 - Damaged abilities need special healing, repairs or supplies.
-- _(Swan Song)_ abilities may be used, when you have taken at least
+- _(Swan Song)_ abilities may be used when you have taken at least
   75% damage. (Or instantly, if an attack or ability would drop you to 0%.)
   Then you're dead. :)
 - _(The Bomb)_ abilities may be used at any time after they have been
-  purchased with exp. You die from using them.
+  purchased with exp. You die after using them.
 
 ## Leveling Up Characters
 - DMs should give out maybe like 10-20 exp after each session.
@@ -44,3 +47,14 @@
         - This helps the DM give you a story you're interested in, and
           reduce their work-load to prepare for each session.
 - Abilities for both (normal) species and roles still cost 10 exp.
+
+## Glossary
+- **Spend:** tick an ability slot.
+- **Damage:** mark an ability slot with an `X`.
+- **Refresh:** un-tick a spent ability slot.
+- **Heal:** un-`X` a damaged ability slot.
+- Poison: anyone afflicted with this takes P damage after one action,
+  P-1 damage after their next action...and 1 damage after P actions.
+  (This is a lot of damage - a total of `((P * (P-1)) / 2) + P`.)
+- Corrode/Burning: anyone afflicted with this takes one damage after each action,
+  and reduces the corrode/fire by one. (It's done at zero.)
