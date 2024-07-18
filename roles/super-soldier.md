@@ -1,4 +1,13 @@
 ## Description
+You don't remember the details of how you became an experimental soldier
+in a foreign army, or the details of the wars you fought, but when you came to
+you were 1) somewhere you didn't like, 2) had a weapon drawn
+on a family of farmers, and 3) got the hell out of dodge.
+After you stole your own secret formulae from your former owner's alchemists,
+a crate of supplies, and loaded it all on a cart.
+Plus a good amount of gold and gems to pay your way and help rebuild
+the villages of those who you wronged.
+
 
 ## Abilities
 ### All Swords and No Play

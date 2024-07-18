@@ -1,4 +1,6 @@
 ## Description
+Farmers are tough folk. Carrying cows to market, one-handed, uphill both ways.
+
 
 ## Abilities
 ### Bale-Tosser

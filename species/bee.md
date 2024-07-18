@@ -1,4 +1,8 @@
 ## Description
+Your hive is a wonderful place, full of honey, royal jelly, and plenty of friends.
+I mean, most bee hives are nice places, but yours is especially nice.
+The trade is pretty constant, but the honey festival every year is the best!
+
 
 ## Abilities
 ### Amazing Carpentry

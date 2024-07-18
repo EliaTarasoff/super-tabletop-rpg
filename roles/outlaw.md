@@ -1,4 +1,7 @@
 ## Description
+In the slums or the highways, you're not one to strictly follow the laws.
+Never _break_ them per-se, just...bend them. A lot. Like maybe break one or two.
+
 
 ## Abilities
 ### Dirty Derringer

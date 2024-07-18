@@ -1,4 +1,8 @@
 ## Description
+Fwoggs are a friendly people, trading their masterwork tools and
+knowledge of the shifting lands with anyone who comes to their swamps,
+lakes and forests. Except for raiders and pillagers. Those guys are jerks.
+
 
 ## Abilities
 ### Expert Swimmer
