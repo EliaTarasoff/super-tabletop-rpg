@@ -5,9 +5,14 @@ Whether by divine power or arcane tinkery, it is an elegant weapon -
 a mere hilt, from which extends a blade of pure light.
 
 ## Abilities
-### A Thousand Suns
+### Amazing Sunlight
 (blast intense light all around you, short range)
 Slots: [ ]-[ ]
+
+### A Thousand Suns
+_(Swan Song)_
+You explode in blinding light, vaporising anyone in short range,
+and scorching anyone in medium range.
 
 ### Blazing Beams
 (shoot beams of light, medium range)

@@ -5,6 +5,11 @@
 (medium range, light damage)
 Slots: [ ]-[ ]-[ ]-[ ]
 
+### If I'm Going Down...
+_(Swan Song)_
+You roll up your sleeves, which until now hid single-shot spring-knives.
+You shoot two targets in medium range with lethal poison.
+
 ### Into the Shadows
 (very sneaky in shadows, nearly invisible at night)
 Slots: [ ]-[ ]-[ ]-[ ]
