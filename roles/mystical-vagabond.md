@@ -11,22 +11,25 @@ At the climax, you embrace your dance partner and walk into the afterlife...
 
 ### The Gift of Foresight
 (crystal balls, tea leaves, animal entrails, etc)
-Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+(foretell X dice per day, high is for you, low is for enemy)
+Slots: [ ]
 
 ### Fools and Their Money
+(damaged at 3x)
 Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
 
 ### Enchanting Dancing
 (belly dance, sexy salsa, etc)
+(damaged at 3x)
 Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
 
 ### Cursed and Crippled
 (slow damage over time?)
-Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+Slots: [ ]
 
 ### Poultices and Potions
 (healing, poisons)
-Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+Slots: [ ]-[ ]-[ ]
 
 ## Hypnotic Gaze
-Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+Slots: [ ]-[ ]
