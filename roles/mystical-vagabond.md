@@ -27,3 +27,6 @@ Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
 ### Poultices and Potions
 (healing, poisons)
 Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
+
+## Hypnotic Gaze
+Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
