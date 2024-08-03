@@ -58,3 +58,4 @@
   (This is a lot of damage - a total of `((P * (P-1)) / 2) + P`.)
 - Corrode/Burning: anyone afflicted with this takes one damage after each action,
   and reduces the corrode/fire by one. (It's done at zero.)
+- Knockout gas: like poison, but expends slots instead of damaging them.
