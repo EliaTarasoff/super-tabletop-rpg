@@ -27,3 +27,6 @@
 - Corrode/Burning: anyone afflicted with this takes one damage after each action,
   and reduces the corrode/fire by one. (It's done at zero.)
 - Knockout gas: like poison, but expends slots instead of damaging them.
+- Exp: experience points.
+- Exp: experience points.
+- GM: game master - the person who's making up most of the story, running all the monsters, etc.
