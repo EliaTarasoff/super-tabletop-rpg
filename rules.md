@@ -9,8 +9,8 @@
 
 | Roll | Outcome                    |
 |------|----------------------------|
-| 6    | Complete success.          |
-| 5    | Success at a cost.         |
+| 6    | Success with a bonus.      |
+| 5    | Success.                   |
 | 4    | Success at a cost.         |
 | 3    | Failure with a cost.       |
 | 2    | Failure with a large cost. |
