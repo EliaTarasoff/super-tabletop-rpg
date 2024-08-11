@@ -7,20 +7,21 @@
 1. If you would roll less than one die, instead roll that many extra dice,
    but look at the lowest die instead.
 
-| Roll | Outcome            |
-|------|--------------------|
-| 6    | Complete success.  |
-| 5    | Success at a cost. |
-| 4    | Success at a cost. |
-| 3    | Abject failure.    |
-| 2    | Abject failure.    |
-| 1    | Abject failure.    |
+| Roll | Outcome                    |
+|------|----------------------------|
+| 6    | Complete success.          |
+| 5    | Success at a cost.         |
+| 4    | Success at a cost.         |
+| 3    | Failure with a cost.       |
+| 2    | Failure with a large cost. |
+| 1    | Failure with a huge cost.  |
 
 ## Creating a Player-Character
 1. Choose a species.
 1. Choose a role.
 1. Think up a cool backstory.
 1. Spend starting-exp between your species and role as feels appropriate.
+    1. You must buy at least one ability from your species and your role.
     1. You start with 50 exp.
     1. Abilities for both (normal) species and roles cost 10 exp.
 1. Draw a nice portrait for yourself!
