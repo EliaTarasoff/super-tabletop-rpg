@@ -30,6 +30,6 @@
     - Major story-beats are goals or actions that are difficult to achieve, but have a larger impact on the story.
         - For example, you assassinate the king's advisor, and wound the king.
     - Minor story-beats are goals or actions that are easier to achieve, but have a smaller impact on the story.
-        - For example, you rescue a family of villagers from bandits, or
-        - you trap and kill a mutant wolf that's hunting a village's sheep.
+        - For example, you rescue villager from bandits, or
+        - you kill a mutant wolf that's hunting a village's sheep.
 - If you run out of abilities to buy for your species and role, take an extra role!
