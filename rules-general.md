@@ -7,14 +7,14 @@
 1. If you would roll less than one die, instead roll that many extra dice,
    but look at the lowest die instead.
 
-| Roll | Outcome                    |
-|------|----------------------------|
-| 6    | Success with a bonus.      |
-| 5    | Success.                   |
-| 4    | Success at a cost.         |
-| 3    | Failure with a cost.       |
-| 2    | Failure with a large cost. |
-| 1    | Failure with a huge cost.  |
+| Roll | Outcome               |
+|------|-----------------------|
+| 6    | Success with a bonus. |
+| 5    | Success.              |
+| 4    | Success at a cost.    |
+| 3    | Failure with benefit. |
+| 2    | Failure.              |
+| 1    | Failure with a cost.  |
 
 ## Glossary
 - **Spend:** tick an ability slot.
