@@ -29,7 +29,7 @@ You inflate yourself with air to intimidate or bully others.
 (Expend one box per use.)
 Slots: [ ]-[ ]-[ ]-[ ]
 
-## Light as a Feather
+### Full of Hot Air
 You inflate yourself with mild heat, to become lighter than air -
 you don't set off pressure-plates, can float on the wind, and climb easily.
 (Expend one box per use.)
