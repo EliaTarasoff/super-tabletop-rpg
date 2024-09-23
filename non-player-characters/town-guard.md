@@ -1,11 +1,14 @@
 ## Description
-
-## Difficulty
+The town guard is a common occurrence in mystical, medieval or similar settings.
 
 ## Abilities
-### Actual Armor
+### Armor and Shield
+Slots: [ ]-[ ]-[ ]-[ ]-[ ]-[ ]
 
-### Spear and Shield
+### The Trusty Spear
+Slots: [ ]
 
 ### Who Goes There?
-
+Town guards are highly skilled at intimidation, and basic detective work!
+(This skill is takes triple damage.)
+Slots: [ ]-[ ]-[ ]
